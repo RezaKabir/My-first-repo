@@ -1,0 +1,2 @@
+Test git repisitory and push to remote repository.
+Through GUI==> Graphical userinterface   
